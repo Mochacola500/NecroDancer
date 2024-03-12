@@ -1,0 +1,7 @@
+data/particles/
+.png
+TEMP_particle_green
+TEMP_particle_blue
+TEMP_particle_orange
+TEMP_particle_red
+TEMP_particle_dirt

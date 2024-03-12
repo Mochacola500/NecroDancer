@@ -1,0 +1,16 @@
+data/level/
+.png
+boss_floor_A 2 2
+floor_dirt1 2 2
+TEMP_floor_crystal 2 2
+TEMP_floor_water 2 2
+TEMP_floor_ice 2 2
+TEMP_floor_hotcoal 2 2
+zone3_floor 2 2
+zone3_floorB 2 2
+zone4_floor 2 2
+TEMP_shop_floor 2 2
+boss_wall 5 1
+wall_torch 4 1
+cauldron_coals 1 2
+cauldron_ice 1 2

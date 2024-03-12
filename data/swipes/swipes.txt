@@ -1,0 +1,38 @@
+data/swipes/
+.png
+swipe_broadsword 3 1
+swipe_broadsword_blood 3 1
+swipe_broadsword_glass 3 1
+swipe_broadsword_gold 3 1
+swipe_broadsword_obsidian 3 1
+swipe_broadsword_titanium 3 1
+swipe_dagger 3 1
+swipe_dagger_blood 3 1
+swipe_dagger_glass 3 1
+swipe_dagger_gold 3 1
+swipe_dagger_titanium 3 1
+swipe_rapier 3 1
+swipe_rapier_blood 3 1
+swipe_rapier_glass 3 1
+swipe_rapier_gold 3 1
+swipe_rapier_obsidian 3 1
+swipe_dagger_titanium 3 1
+swipe_longsword 3 1
+swipe_longsword_blood 3 1
+swipe_longsword_glass 3 1
+swipe_longsword_gold 3 1
+swipe_longsword_obsidian 3 1
+swipe_longsword_titanium 3 1
+swipe_enemy 5 1 
+fire0 8 1
+
+
+
+
+
+
+
+
+
+
+

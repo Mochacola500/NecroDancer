@@ -1,0 +1,33 @@
+data/entities/
+.png
+clone 8 2
+player1_heads_xmas 4 2
+player1_heads_xmas_reverse 4 2
+player1_armor_body_xmas 4 5
+player1_armor_body_xmas_reverse 4 5
+slime_green 4 2
+slime_green_reverse 4 2 
+slime_ice 4 2
+slime_ice_reverse 4 2
+slime_fire 4 2
+slime_orange 4 2
+slime_orange_reverse 4 2
+bat 4 2
+bat_reverse 4 2
+bat_black 4 2
+bat_black_reverse 4 2
+bat_green 4 2
+bat_green_reverse 4 2
+bat_red 4 2
+bat_red_reverse 4 2
+fire_elemental1 4 2
+fire_elemental1_reverse 4 2
+ice_elemental1 4 2
+ice_elemental1_reverse 4 2
+chest 1 2
+chest_black 1 2
+chest_white 1 2
+cauldron_coals_mimic 3 2
+cauldron_ice_mimic 3 2
+cauldron_coals_mimic_reverse 3 2
+cauldron_ice_mimic_reverse 3 2

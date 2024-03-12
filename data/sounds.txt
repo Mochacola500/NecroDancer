@@ -1,0 +1,16 @@
+data/sounds/
+.ogg
+vo_blt_melee_1_01 0 0
+vo_blt_dig_01  0 0
+mov_dig_dirt  0 0
+sfx_ui_select_up  0 0
+sfx_pickup_gold_01 0 0
+sfx_pickup_diamond  0 0
+sfx_missedbeat  0 0
+en_slime_attack  0 0
+en_slime_death  0 0
+en_slime_hit_01  0 0
+en_bat_attack  0 0
+en_bat_death  0 0
+en_bat_hit  0 0
+sfx_player_hit_ST  0 0

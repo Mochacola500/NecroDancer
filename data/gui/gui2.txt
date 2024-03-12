@@ -1,0 +1,5 @@
+data/gui/
+.png
+TEMP_beat_heart 2 1
+TEMP_beat_marker 1 1
+TEMP_digits 10 1

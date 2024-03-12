@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{420ecdef-a077-47e2-a9e1-9792dafeac37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{63eb0e17-17fb-49b9-84e8-a050948f8403}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Util">
+      <UniqueIdentifier>{e5ab7eea-98bb-47f5-8314-e435882cb2e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Render">
+      <UniqueIdentifier>{c4856a22-b336-4498-910c-bccc17801eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Render\D2D">
+      <UniqueIdentifier>{9d78ff19-7585-4f31-97ec-88d32273718e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Render\Image">
+      <UniqueIdentifier>{fa31defc-94d9-45f3-9551-19d86bb86a3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Scene">
+      <UniqueIdentifier>{a3dd1275-6364-44ab-b1f7-531fd565fb64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Util\Common">
+      <UniqueIdentifier>{c1c53188-0a18-4eef-b771-ba10372d3c61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Window">
+      <UniqueIdentifier>{e82f75de-21a0-4593-80ee-55dc7cbcd3a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Singleton">
+      <UniqueIdentifier>{e0d38df6-2897-4c5b-b935-ea9b35f2abff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Manage">
+      <UniqueIdentifier>{00dd6d20-f4f1-433a-bc30-c330396f5490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Timer">
+      <UniqueIdentifier>{f1c7b3c4-21ea-4970-98d8-7dc7b90d6f5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Input">
+      <UniqueIdentifier>{ba0c48df-d85a-4d1e-ad4e-0a9d0df68ad1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Entry">
+      <UniqueIdentifier>{86a191e2-9b6d-4022-9000-9a3e74343f13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Game">
+      <UniqueIdentifier>{df6493d1-6848-453a-ae58-643c4784d7b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Util\Figure">
+      <UniqueIdentifier>{9345271b-df69-41b7-b1a0-e6e5c96d28fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Util\Figure\FloatRect">
+      <UniqueIdentifier>{a90d8708-7314-4dae-92ee-1fb0a19fdfb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCH\Math">
+      <UniqueIdentifier>{e2ee8316-a78c-4550-be12-316b3c4c01e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCH\Math\Vector2">
+      <UniqueIdentifier>{b008fe0b-1c54-43cc-aee1-ce28a1ac8eca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D2DRenderer.h">
+      <Filter>System\Render\D2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>System\Render\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>System\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>System\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Library.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Ctime.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Common - Figure.h">
+      <Filter>System\Util\Figure</Filter>
+    </ClInclude>
+    <ClInclude Include="Common - Math.h">
+      <Filter>PCH\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>System\Render\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>System\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>System\Util\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>System\Util\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>PCH\Math\Vector2</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatRect.h">
+      <Filter>System\Util\Figure\FloatRect</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>System\Util\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWindow.h">
+      <Filter>System\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Window_Info.h">
+      <Filter>System\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>System\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>System\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>System\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D2DRenderer.cpp">
+      <Filter>System\Render\D2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DRenderer + DrawFunc.cpp">
+      <Filter>System\Render\D2D</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>System\Render\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>System\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>System\Render\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>System\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>PCH\Math\Vector2</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatRect.cpp">
+      <Filter>System\Util\Figure\FloatRect</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DRenderer + Create.cpp">
+      <Filter>System\Render\D2D</Filter>
+    </ClCompile>
+    <ClCompile Include="MyWindow.cpp">
+      <Filter>System\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>System\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>System\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Entry.cpp">
+      <Filter>System\Entry</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>System\Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

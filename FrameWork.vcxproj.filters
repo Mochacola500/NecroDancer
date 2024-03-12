@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>System\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>System\Common\Vector2</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatRect.cpp">
+      <Filter>System\Common\FloatRect</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>System\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>System\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DRenderer + Create.cpp">
+      <Filter>System\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DRenderer + DrawFunc.cpp">
+      <Filter>System\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DRenderer.cpp">
+      <Filter>System\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>System\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>System\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="MyWindow.cpp">
+      <Filter>System\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>System\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>System\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Commend.cpp">
+      <Filter>System\Commend</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>System\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Entry.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Loading.cpp">
+      <Filter>System\Bin</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>System\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>System\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatManager.cpp">
+      <Filter>Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="HeartManager.cpp">
+      <Filter>Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="MapEditor.cpp">
+      <Filter>MapEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="World_Global.cpp">
+      <Filter>System\Common\World</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>System\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="EventTime.cpp">
+      <Filter>System\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>System\WALL</Filter>
+    </ClCompile>
+    <ClCompile Include="Mainmenu.cpp">
+      <Filter>SceneList</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Monsters\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Slime.cpp">
+      <Filter>Monsters\Slime</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>System\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="useFunction.cpp" />
+    <ClCompile Include="Data.cpp">
+      <Filter>System\DATA</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>Monsters\Bat</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>SceneList</Filter>
+    </ClCompile>
+    <ClCompile Include="Player - Interaction.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Elemental.cpp">
+      <Filter>Monsters\Elemental</Filter>
+    </ClCompile>
+    <ClCompile Include="Tresure.cpp">
+      <Filter>Tresure</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>Bomb</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Door</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>SceneList</Filter>
+    </ClCompile>
+    <ClCompile Include="Zone1.cpp">
+      <Filter>SceneList</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopKeeper.cpp">
+      <Filter>Monsters\ShopKeeper</Filter>
+    </ClCompile>
+    <ClCompile Include="Mimic.cpp">
+      <Filter>Monsters\Mimic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera.h">
+      <Filter>System\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="World_Global.h">
+      <Filter>System\Common\World</Filter>
+    </ClInclude>
+    <ClInclude Include="World_Function.h">
+      <Filter>System\Common\World</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>System\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>System\Common\Vector2</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2_Function.h">
+      <Filter>System\Common\Vector2</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatRect_Function.h">
+      <Filter>System\Common\FloatRect</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatRect.h">
+      <Filter>System\Common\FloatRect</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Common_Debug.h">
+      <Filter>System\Common\Macro</Filter>
+    </ClInclude>
+    <ClInclude Include="Common_Singleton.h">
+      <Filter>System\Common\Macro</Filter>
+    </ClInclude>
+    <ClInclude Include="Standard.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Common_Useful.h">
+      <Filter>System\Common\Macro</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>System\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Common_Enum.h">
+      <Filter>System\Common\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>System\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DRenderer.h">
+      <Filter>System\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>System\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>System\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWindow.h">
+      <Filter>System\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Library.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>System\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>System\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Commend.h">
+      <Filter>System\Commend</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>System\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Loading.h">
+      <Filter>System\Bin</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>System\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>System\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatManager.h">
+      <Filter>Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="HeartManager.h">
+      <Filter>Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="MapEditor.h">
+      <Filter>MapEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>System\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="EventTime.h">
+      <Filter>System\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>System\WALL</Filter>
+    </ClInclude>
+    <ClInclude Include="Mainmenu.h">
+      <Filter>SceneList</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Monsters\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Slime.h">
+      <Filter>Monsters\Slime</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>System\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="useFunction.h" />
+    <ClInclude Include="Data.h">
+      <Filter>System\DATA</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>Monsters\Bat</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScene.h">
+      <Filter>SceneList</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Elemental.h">
+      <Filter>Monsters\Elemental</Filter>
+    </ClInclude>
+    <ClInclude Include="Tresure.h">
+      <Filter>Tresure</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>Bomb</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Door</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>SceneList</Filter>
+    </ClInclude>
+    <ClInclude Include="Zone1.h">
+      <Filter>SceneList</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopKeeper.h">
+      <Filter>Monsters\ShopKeeper</Filter>
+    </ClInclude>
+    <ClInclude Include="Mimic.h">
+      <Filter>Monsters\Mimic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{9fbaee61-e375-42ef-9931-6ff372841b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{2093a726-e303-40b9-8264-2088bca6567b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SceneList">
+      <UniqueIdentifier>{fed8fcc0-0c5d-4a75-a264-189e0a46e9c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tile">
+      <UniqueIdentifier>{1c3102d8-ed65-4185-8ef1-7c61efa9d633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{4311f3ea-5cca-462b-9ba6-b8d486a535a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{18d7def4-6dc7-4482-aff9-4a2049fa4e6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Scene">
+      <UniqueIdentifier>{68f915f1-0cc6-4538-bacf-2d66b1ed002d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Commend">
+      <UniqueIdentifier>{daaf2f8d-2d46-4e0d-ba1d-dd13e687db14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Common">
+      <UniqueIdentifier>{06c6b9f6-5316-4d57-b045-43d315f700e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Common\World">
+      <UniqueIdentifier>{3795ae3e-12e5-4e1c-a7ec-03f8e4078325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Common\FloatRect">
+      <UniqueIdentifier>{c4a08b67-39a7-4f25-bc16-4dd0e20f3429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Common\Macro">
+      <UniqueIdentifier>{d6b415cb-8262-4bc1-9445-c1f2af498e55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Common\Vector2">
+      <UniqueIdentifier>{e41b31c8-df45-4fd6-a23c-eda768f77b7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Common\Enum">
+      <UniqueIdentifier>{9db28878-26b0-4696-a289-93a69a168a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Image">
+      <UniqueIdentifier>{255522ed-e833-4361-8518-18211ed8a9e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\ObjectManager">
+      <UniqueIdentifier>{f8214f90-7fa3-44cb-aac4-9944e3b7e789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Window">
+      <UniqueIdentifier>{7f9581d7-be3a-4762-9492-e40deeb0c35a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Render">
+      <UniqueIdentifier>{3be159d2-84b2-4ed6-848a-26b345c7262c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object">
+      <UniqueIdentifier>{a1240c5b-d875-4ea6-b2a6-962877a53f60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Singleton">
+      <UniqueIdentifier>{6094ea6b-1603-49a2-9d8c-13cab62babb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Camera">
+      <UniqueIdentifier>{f3421569-be7c-4598-bb34-ab6f3edcff8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Input">
+      <UniqueIdentifier>{2f6110ba-107d-41d3-90f7-94681af89343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Timer">
+      <UniqueIdentifier>{01667e3e-d517-4530-a5a0-ba03e50dde6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Animation">
+      <UniqueIdentifier>{c9c39368-a508-4d73-96f0-1ad6387a0666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\WALL">
+      <UniqueIdentifier>{cb858c23-29c4-4150-acee-8357f189f825}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{90240b79-8afe-4275-90fe-1328740d41c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Sound">
+      <UniqueIdentifier>{1a6bc03c-6068-4a35-987a-6bd281506336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Particle">
+      <UniqueIdentifier>{b2d8243b-880d-45de-a51a-e6cff7b37091}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Bin">
+      <UniqueIdentifier>{684114e4-d189-449a-9a02-4d44a4ab40c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\DATA">
+      <UniqueIdentifier>{841f10cf-4abf-4986-88e9-45a93f48b0e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{a84f8ff9-7d59-4c96-bcc1-9334d8cb7c30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters">
+      <UniqueIdentifier>{c57269e1-b144-41e3-866d-b7d41066fd8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\Elemental">
+      <UniqueIdentifier>{bfcc3c46-d9b1-499d-a461-0d372d47da0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\Monster">
+      <UniqueIdentifier>{3127c3bb-203d-4d25-b4e3-9e64b7c1dae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\Bat">
+      <UniqueIdentifier>{cd8ad35b-91ee-4898-9884-38f163dde4a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\Slime">
+      <UniqueIdentifier>{695834dc-3f10-4b95-82c6-5833a643356b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tresure">
+      <UniqueIdentifier>{5fc2edb0-7208-4075-8e28-eb63d0147eec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bomb">
+      <UniqueIdentifier>{f4d3bead-e7f2-4655-89ef-0bd41d605f71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Door">
+      <UniqueIdentifier>{a17be9c7-39ee-4ef1-86ed-a2a16558907e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapEditor">
+      <UniqueIdentifier>{b94bbe4b-b927-44e7-8013-02620b10bcc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\ShopKeeper">
+      <UniqueIdentifier>{fbe45f85-167e-4436-a173-308f9636a52f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\Mimic">
+      <UniqueIdentifier>{f214ad89-a627-47d8-94bf-9d660cf4fbd3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

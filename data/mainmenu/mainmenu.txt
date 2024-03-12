@@ -1,0 +1,8 @@
+data/mainmenu/
+.png
+mainmenu
+splash_screen
+start
+map_tool
+option
+end
